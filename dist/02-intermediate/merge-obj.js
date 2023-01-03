@@ -1,5 +1,6 @@
 "use strict";
 // Product : price, isNew, isSale, title
+Object.defineProperty(exports, "__esModule", { value: true });
 const car = {
     brand: "Mazda",
     isNew: false,

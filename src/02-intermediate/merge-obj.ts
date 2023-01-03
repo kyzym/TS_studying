@@ -3,6 +3,7 @@
 // Vehicle : wheels, year, brand
 
 // Car: type, model +Product, +Vehicle
+export {};
 
 type Product = {
   price: number;
